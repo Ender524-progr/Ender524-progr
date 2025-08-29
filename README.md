@@ -13,6 +13,6 @@ Backend básico: PHP, MySQL / SQL / C#.
 “Me gusta el mundo android y linux, en algun momento quiero crear una distro y alguna custom rom.”
 
 <div align="center">
-  <img height="250" width="1000"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdreDIyamw4YjR1Y2RqZnV1anNhcm9tdmEwOHo3ODJ3bGdkNXhvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14i67O8MZyoH2o/giphy.gif" alt="fun gif" />
+  
+  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGttZTh4a2NjaGlwYjc1cGdsaHkwdnA4YjRnZjc4bGYyY3dsaWRnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TSMirlYGEBbYKCNsLc/giphy.gif" alt="fun gif" />
 </div>
