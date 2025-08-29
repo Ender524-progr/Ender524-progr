@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola, soy Ender (algunos dicen que me llamo Alonso)
 
-<!--
-**Ender524-progr/Ender524-progr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Me gusta pasar mi tiempo libre jugar y descubrir funciones y código nuevo.
+😏 Y también ver algo de anime jjejeje.
 
-Here are some ideas to get you started:
+🚀 Tecnologías (aprendiendo):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML5, CSS3, JavaScript.
+Backend básico: PHP, MySQL / SQL / C#.
+
+🫣 ¿Que quiero?:
+
+“Me gusta el mundo android y linux, en algun momento quiero crear una distro y alguna custom rom.”
+
+<div align="center">
+  <img height="250" width="1000"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdreDIyamw4YjR1Y2RqZnV1anNhcm9tdmEwOHo3ODJ3bGdkNXhvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14i67O8MZyoH2o/giphy.gif" alt="fun gif" />
+</div>
