@@ -14,5 +14,5 @@ Backend básico: PHP, MySQL / SQL / C#.
 
 <div align="center">
   
-  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGttZTh4a2NjaGlwYjc1cGdsaHkwdnA4YjRnZjc4bGYyY3dsaWRnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TSMirlYGEBbYKCNsLc/giphy.gif" alt="fun gif" />
+  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZiOHYwZGV6cDZ0MzA3NzA4aWV4MG50NW5kc3M0NmUxNno1bXI3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGvv8uzbZVONxWU/giphy.gif" alt="fun gif" />
 </div>
