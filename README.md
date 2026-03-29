@@ -1,4 +1,4 @@
-## Hola, soy Ender (algunos dicen que me llamo Alonso)
+## Hola, soy Ender 
 
 🎮 Me gusta pasar mi tiempo libre jugar y descubrir funciones y código nuevo.
 😏 Y también ver algo de anime jjejeje.
